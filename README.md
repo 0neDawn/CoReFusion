@@ -1,6 +1,6 @@
 # CoReFusion
 
-**CoReFusion: One-Step Infrared and Visible Image Fusion via Decoupled Reconstruction**
+**CoReFusion**
 
 This release contains the selected D1 architecture, its inference checkpoint, a training recipe for MSRS, and paired example images. CoReFusion predicts a latent state with one update, decodes coarse content, and reconstructs the output using selected source details at two scales. The detail heads combine local features, the predicted latent state, and spatial context; bounded residual compensation refines their weighted details.
 
