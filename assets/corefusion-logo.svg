@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">CoReFusion</title>
+  <desc id="desc">Warm infrared and cool visible image cards meet in a violet fusion mark.</desc>
+  <defs>
+    <linearGradient id="warm" x1="24" y1="30" x2="104" y2="136" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="cool" x1="65" y1="24" x2="144" y2="132" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="fusion" x1="58" y1="58" x2="104" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <g transform="rotate(-12 60 80)">
+    <rect x="20" y="30" width="80" height="104" rx="20" fill="url(#warm)"/>
+    <circle cx="42" cy="54" r="7" fill="white" fill-opacity=".9"/>
+    <path d="M34 109V94L47 80L60 92L77 69L86 82V109H34Z" fill="white" fill-opacity=".65"/>
+  </g>
+  <g transform="rotate(12 100 80)">
+    <rect x="62" y="26" width="80" height="104" rx="20" fill="url(#cool)"/>
+    <circle cx="84" cy="50" r="7" fill="white" fill-opacity=".9"/>
+    <path d="M76 105V91L89 76L102 88L119 65L128 78V105H76Z" fill="white" fill-opacity=".7"/>
+  </g>
+  <rect x="59" y="59" width="42" height="42" rx="13" transform="rotate(45 80 80)" fill="url(#fusion)" stroke="white" stroke-width="4"/>
+  <path d="M80 68L84 76L92 80L84 84L80 92L76 84L68 80L76 76L80 68Z" fill="white"/>
+</svg>

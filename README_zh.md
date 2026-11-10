@@ -1,16 +1,27 @@
-# CoReFusion
+<p align="center">
+  <img src="assets/corefusion-logo.svg" width="100" alt="CoReFusion logo">
+</p>
 
-单步红外与可见光图像融合。
+<h1 align="center">CoReFusion</h1>
+
+<p align="center"><strong>单步红外与可见光图像融合</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 3.9">
+  <img src="https://img.shields.io/badge/PyTorch-2.6.0-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch 2.6.0">
+</p>
 
 [English](README.md)
 
 ## 发布进度
 
-- [x] D1 模型与推理代码
-- [x] MI、SCD、VIF、Qabf、SSIM 指标评估代码
-- [x] MSRS、M3FD、FMB 配对示例图像
-- [ ] 训练脚本 `train.py`：即将发布
-- [ ] 预训练权重：即将发布
+| 内容 | 发布状态 |
+| :--- | :---: |
+| **模型与推理** · D1 架构 | ![已发布](assets/status-released.svg) |
+| **指标评估** · MI、SCD、VIF、Qabf、SSIM | ![已发布](assets/status-released.svg) |
+| **示例数据** · MSRS、M3FD、FMB | ![已发布](assets/status-released.svg) |
+| **训练脚本** · `train.py` | ![即将发布](assets/status-coming-soon.svg) |
+| **预训练权重** | ![即将发布](assets/status-coming-soon.svg) |
 
 ## 安装
 

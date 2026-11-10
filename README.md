@@ -1,14 +1,25 @@
-# CoReFusion
+<p align="center">
+  <img src="assets/corefusion-logo.svg" width="100" alt="CoReFusion logo">
+</p>
 
-One-step infrared and visible image fusion.
+<h1 align="center">CoReFusion</h1>
+
+<p align="center"><strong>One-step infrared and visible image fusion</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 3.9">
+  <img src="https://img.shields.io/badge/PyTorch-2.6.0-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch 2.6.0">
+</p>
 
 ## Release status
 
-- [x] D1 model and inference code
-- [x] Evaluation: MI, SCD, VIF, Qabf, and SSIM
-- [x] Paired examples from MSRS, M3FD, and FMB
-- [ ] Training script (`train.py`) — coming soon
-- [ ] Pretrained checkpoints — coming soon
+| Component | Status |
+| :--- | :---: |
+| **Model & inference** · D1 architecture | ![Released](assets/status-released.svg) |
+| **Evaluation** · MI, SCD, VIF, Qabf, SSIM | ![Released](assets/status-released.svg) |
+| **Example data** · MSRS, M3FD, FMB | ![Released](assets/status-released.svg) |
+| **Training script** · `train.py` | ![Coming soon](assets/status-coming-soon.svg) |
+| **Pretrained checkpoints** | ![Coming soon](assets/status-coming-soon.svg) |
 
 ## Installation
 
