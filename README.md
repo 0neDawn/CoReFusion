@@ -2,15 +2,12 @@
 
 One-step infrared and visible image fusion.
 
-[简体中文](README_zh.md)
-
 ## Release status
 
 - [x] D1 model and inference code
-- [x] Training modules and MSRS configuration
 - [x] Evaluation: MI, SCD, VIF, Qabf, and SSIM
 - [x] Paired examples from MSRS, M3FD, and FMB
-- [ ] Standalone training entry point (`train.py`) — not released
+- [ ] Training script (`train.py`) — coming soon
 - [ ] Pretrained checkpoints — coming soon
 
 ## Installation
