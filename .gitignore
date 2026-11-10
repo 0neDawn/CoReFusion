@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+runs/
+results/
+*.tmp
+.DS_Store
+
+# Model checkpoints are kept locally.
+checkpoints/

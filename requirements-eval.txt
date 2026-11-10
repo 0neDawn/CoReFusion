@@ -1,0 +1,6 @@
+# Optional additions to the base CoReFusion environment.
+# Install torchvision from the same PyTorch release/CUDA channel as torch.
+# No separate torch requirement is added here.
+scipy==1.13.1
+Pillow==11.2.1
+torchvision==0.21.0

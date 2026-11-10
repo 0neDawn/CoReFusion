@@ -1,0 +1,355 @@
+{
+  "selection": "First five common stems in lexicographic order per split; original pixels and filenames retained.",
+  "images": [
+    {
+      "path": "data/MSRS/train/ir/00001D.png",
+      "sha256": "bdce78f77efc16ffc2926af6033145b71cf250476bb7af8f56d1fca5c19cbc80",
+      "shape": [
+        480,
+        640
+      ]
+    },
+    {
+      "path": "data/MSRS/train/vis/00001D.png",
+      "sha256": "d2277b3d16ab64653f0994242b8872980a40bd7bb4b72a370e161c9a8ca5d84e",
+      "shape": [
+        480,
+        640,
+        3
+      ]
+    },
+    {
+      "path": "data/MSRS/train/ir/00002D.png",
+      "sha256": "24737c34a677689122b71dd59fc63b037cb087179b8fda447b2feec109a657a5",
+      "shape": [
+        480,
+        640
+      ]
+    },
+    {
+      "path": "data/MSRS/train/vis/00002D.png",
+      "sha256": "3045ac517b95f55a42ecd8d958aaa520a711f2a018380009f9dda42345e8af3b",
+      "shape": [
+        480,
+        640,
+        3
+      ]
+    },
+    {
+      "path": "data/MSRS/train/ir/00003N.png",
+      "sha256": "da07e2dc4aabc2dd8228a994a00f74cc9c1ae37ff3e726790a3c3d2162350643",
+      "shape": [
+        480,
+        640
+      ]
+    },
+    {
+      "path": "data/MSRS/train/vis/00003N.png",
+      "sha256": "224b925eac87e082a21d0a9b5512e9b46d500c5b563e45bf2d445d0d628d8feb",
+      "shape": [
+        480,
+        640,
+        3
+      ]
+    },
+    {
+      "path": "data/MSRS/train/ir/00005N.png",
+      "sha256": "516cede15d30936fdac8cad25f02862e1615e8e4064fd7078e8471eae8fe3757",
+      "shape": [
+        480,
+        640
+      ]
+    },
+    {
+      "path": "data/MSRS/train/vis/00005N.png",
+      "sha256": "3382e81e6ac4ed46a1eec752e8f0f6d51c8fdbb3b19895ab47dc388ab82cb8eb",
+      "shape": [
+        480,
+        640,
+        3
+      ]
+    },
+    {
+      "path": "data/MSRS/train/ir/00006N.png",
+      "sha256": "ac6f0077b124990159ee07488c5cba9660731716c19d700422a4625150d314e7",
+      "shape": [
+        480,
+        640
+      ]
+    },
+    {
+      "path": "data/MSRS/train/vis/00006N.png",
+      "sha256": "469f8709b754681f0b55565d43ed0d3b256c351eb8c7d85f42b480dd028d50ab",
+      "shape": [
+        480,
+        640,
+        3
+      ]
+    },
+    {
+      "path": "data/MSRS/test/ir/00004N.png",
+      "sha256": "3fd52464e22ea4603499a6f180dec541c05f307429bf6ed49e08924de0e6e92f",
+      "shape": [
+        480,
+        640
+      ]
+    },
+    {
+      "path": "data/MSRS/test/vis/00004N.png",
+      "sha256": "9bc9a99133615116486af34fc3f6f1eebea1019da652e04ed2f4c8863412ccb7",
+      "shape": [
+        480,
+        640,
+        3
+      ]
+    },
+    {
+      "path": "data/MSRS/test/ir/00008N.png",
+      "sha256": "bd515087705a8eb27a43d379cb937495faa68741336bdb79e5ae74f1c57c4d9f",
+      "shape": [
+        480,
+        640
+      ]
+    },
+    {
+      "path": "data/MSRS/test/vis/00008N.png",
+      "sha256": "5cafc1840aded6cf506356bc5def4b21d0480b04c160f1e4285193cefba4e551",
+      "shape": [
+        480,
+        640,
+        3
+      ]
+    },
+    {
+      "path": "data/MSRS/test/ir/00012N.png",
+      "sha256": "b75147ddedc97ba67458dccc957f9d95c2029d7c3dc6016e1c5eb0bb125dc9b9",
+      "shape": [
+        480,
+        640
+      ]
+    },
+    {
+      "path": "data/MSRS/test/vis/00012N.png",
+      "sha256": "255346180b20323bbdb5b10252ddc9d3c4e6a85eb0d85fcf4ebff6fe731cf812",
+      "shape": [
+        480,
+        640,
+        3
+      ]
+    },
+    {
+      "path": "data/MSRS/test/ir/00016N.png",
+      "sha256": "ce5999aa3795f05e11d3fa1cfcbeb5d7877dab028ca080b85c94d052f5a7920e",
+      "shape": [
+        480,
+        640
+      ]
+    },
+    {
+      "path": "data/MSRS/test/vis/00016N.png",
+      "sha256": "b55965e5bc43a699d64d16c6711a32a91ff8e6a0505ae11938bc1c6613d54ab0",
+      "shape": [
+        480,
+        640,
+        3
+      ]
+    },
+    {
+      "path": "data/MSRS/test/ir/00020N.png",
+      "sha256": "5cca81249f15e895f288eb2e9075eb01f37d2b9df3fd866029b6016b9326f97b",
+      "shape": [
+        480,
+        640
+      ]
+    },
+    {
+      "path": "data/MSRS/test/vis/00020N.png",
+      "sha256": "c94973e3a16622103600caaa28516110efbe8a57d454a6c1d2fba53abe03f693",
+      "shape": [
+        480,
+        640,
+        3
+      ]
+    },
+    {
+      "path": "data/M3FD/test/ir/00000.png",
+      "sha256": "edd8d28815ecf6d3a8a11109b945e166430ce9344eed89370d8ee5a8020c6d17",
+      "shape": [
+        768,
+        1024,
+        3
+      ]
+    },
+    {
+      "path": "data/M3FD/test/vis/00000.png",
+      "sha256": "2e9c72eecb2b845194ce30fbbccb7c497e13cf022c7b98170a215c9099457e13",
+      "shape": [
+        768,
+        1024,
+        3
+      ]
+    },
+    {
+      "path": "data/M3FD/test/ir/00011.png",
+      "sha256": "aff459d964eba481db90e6573f6b60355523e3735401c4a485b6bb617b612145",
+      "shape": [
+        768,
+        1024,
+        3
+      ]
+    },
+    {
+      "path": "data/M3FD/test/vis/00011.png",
+      "sha256": "52bf9827258498569c643fd11568e7cc94ac47128fd18d4877cd5ca07213c5af",
+      "shape": [
+        768,
+        1024,
+        3
+      ]
+    },
+    {
+      "path": "data/M3FD/test/ir/00025.png",
+      "sha256": "56d0e63478f30bcde7ecfd579722986c328938b08350652f4e83688e67395c5b",
+      "shape": [
+        768,
+        1024,
+        3
+      ]
+    },
+    {
+      "path": "data/M3FD/test/vis/00025.png",
+      "sha256": "3d3e77da8eb989c60d86de728ebb1d57fc6dbeb0d211509c3a4a96bef51252be",
+      "shape": [
+        768,
+        1024,
+        3
+      ]
+    },
+    {
+      "path": "data/M3FD/test/ir/00031.png",
+      "sha256": "61db8a212702455b88365abce0be55f78c24fd4eaab93ec345621a05d7e08f32",
+      "shape": [
+        768,
+        1024,
+        3
+      ]
+    },
+    {
+      "path": "data/M3FD/test/vis/00031.png",
+      "sha256": "5b350b0a1aafc0831406e82fdfccad485541003cb71b859ab4c60ccbf98d1416",
+      "shape": [
+        768,
+        1024,
+        3
+      ]
+    },
+    {
+      "path": "data/M3FD/test/ir/00033.png",
+      "sha256": "3357adff25adb8237f8d8968167f5f306ef6ea97badaa06c4ad9218724e40c68",
+      "shape": [
+        768,
+        1024,
+        3
+      ]
+    },
+    {
+      "path": "data/M3FD/test/vis/00033.png",
+      "sha256": "51946516e15242c0eee5a4581881f1980a6301ebfcbdc96376d931995d0b044f",
+      "shape": [
+        768,
+        1024,
+        3
+      ]
+    },
+    {
+      "path": "data/FMB/test/ir/00043.png",
+      "sha256": "938bdc86e1110007d641f2faa7360b23e07301eb06701d829dc01044d7965643",
+      "shape": [
+        600,
+        800,
+        3
+      ]
+    },
+    {
+      "path": "data/FMB/test/vis/00043.png",
+      "sha256": "f7de7119df1e10a40c50fd22b13eb495148a6a8b5cefe951d22da0dd15fa042b",
+      "shape": [
+        600,
+        800,
+        3
+      ]
+    },
+    {
+      "path": "data/FMB/test/ir/00044.png",
+      "sha256": "a79a1f8834de6ce5e8acbdd081584f48f9a149855a8c7fca22eaaadd1037b407",
+      "shape": [
+        600,
+        800,
+        3
+      ]
+    },
+    {
+      "path": "data/FMB/test/vis/00044.png",
+      "sha256": "d55bd95a7c5bdc670b8b7ef73adfb53503cc4983a95e865a06a356f5811ede65",
+      "shape": [
+        600,
+        800,
+        3
+      ]
+    },
+    {
+      "path": "data/FMB/test/ir/00045.png",
+      "sha256": "f52e2d4964b60ba2ec1588a8fca32dd454e99ac3388d509b1a62ccd674761bae",
+      "shape": [
+        600,
+        800,
+        3
+      ]
+    },
+    {
+      "path": "data/FMB/test/vis/00045.png",
+      "sha256": "85fe72d82a92a746ad130be60e502fb23ea26a5044357fa035f01d370735e817",
+      "shape": [
+        600,
+        800,
+        3
+      ]
+    },
+    {
+      "path": "data/FMB/test/ir/00046.png",
+      "sha256": "c89ebf502c3681f01d276dad3a2863492d8d508e58d1cfe0a584e014080166ae",
+      "shape": [
+        600,
+        800,
+        3
+      ]
+    },
+    {
+      "path": "data/FMB/test/vis/00046.png",
+      "sha256": "aa6153724f4d60b9320e5fad605f22584f627bc64b4d5e0d9461b6101a36c997",
+      "shape": [
+        600,
+        800,
+        3
+      ]
+    },
+    {
+      "path": "data/FMB/test/ir/00047.png",
+      "sha256": "823db91404b69ed6aca0a42d2786ad9b1a65fb4933fcb393ca688ee31134e595",
+      "shape": [
+        600,
+        800,
+        3
+      ]
+    },
+    {
+      "path": "data/FMB/test/vis/00047.png",
+      "sha256": "5fb199d3a258c604c52502a0f206c89e7330cbaf42925377fbc540abd77e1e1a",
+      "shape": [
+        600,
+        800,
+        3
+      ]
+    }
+  ]
+}
