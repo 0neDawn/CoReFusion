@@ -2,7 +2,7 @@
   <img src="assets/corefusion-logo.svg" width="100" alt="CoReFusion logo">
 </p>
 
-<h1 align="center">CoReFusion</h1>
+<h1 align="center"></h1>
 
 <p align="center"><strong>One-step infrared and visible image fusion</strong></p>
 
