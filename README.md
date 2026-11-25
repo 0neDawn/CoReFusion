@@ -4,7 +4,7 @@
 
 <h1 align="center"></h1>
 
-<p align="center"><strong>One-step infrared and visible image fusion</strong></p>
+<p align="center"><strong></strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 3.9">
